@@ -1,0 +1,5 @@
+config/appConfig.js
+config/config.env
+files 
+.next
+node_modules
